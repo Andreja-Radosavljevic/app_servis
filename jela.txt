@@ -1,0 +1,3 @@
+
+{"naziv":"dasdas","opis":"dsadasd","kategorija":"1","cena":"32313"}
+{"naziv":"dasdasd","opis":"dasdasdasd","kategorija":"1","cena":"31"}
